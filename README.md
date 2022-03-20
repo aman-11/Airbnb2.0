@@ -17,4 +17,4 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 [https://airbnb-demo-sooty.vercel.app/] -> (basicUrl)
 
-[airbnb-demo-sooty.vercel.app] -> (Domain)
+[https://airbnb-demo-sooty.vercel.app/] -> (Domain)
